@@ -1,0 +1,9 @@
+{
+    "Screen": {
+        "width" : 900,
+        "height" : 900
+    },
+    "Block" : {
+        "columns" : 15 
+    }
+}
